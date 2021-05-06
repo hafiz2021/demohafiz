@@ -1,0 +1,1 @@
+insert into soil (id,name) values (1,'aa'),(2,'bb'),(3,'cc') ;
